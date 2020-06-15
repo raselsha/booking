@@ -1,0 +1,239 @@
+/* Create three equal columns that floats next to each other */
+*{
+	box-sizing: border-box;
+}
+.col-1{
+  float: left;
+  width:8.33%;
+}
+.col-2{
+  float: left;
+  width:16.66%;
+}
+.col-3{
+  float: left;
+  width:25%;
+}
+.col-4{
+  float: left;
+  width:33.33%;
+}
+.col-5{
+  float: left;
+  width:41.66%;
+}
+.col-6{
+  float: left;
+  width:50%;
+}
+.col-7{
+  float: left;
+  width:58.33%;
+}
+.col-8{
+  float: left;
+  width:66.66%;
+}
+.col-9{
+  float: left;
+  width:75%;
+}
+.col-10{
+  float: left;
+  width:83.33%;
+}
+.col-11{
+  float: left;
+  width:91.66%;
+}
+.col-12{
+  float: left;
+  width:100%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	line-height: 18px;
+	font-size: 12px;
+	margin: 0;
+	padding:0px;
+	background:url('../images/bg.jpg')no-repeat center center fixed;
+}
+#overlay {
+  position: fixed; /* Sit on top of the page content */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.8); /* Black background with opacity */
+  z-index:1; /* Specify a stack order in case you're using a different order for other elements */
+ /* Add a pointer on hover */
+}
+.container{
+	width: 960px;
+	margin:0 auto;
+	background:rgba(255,255,255,0.90);
+	padding:5px;
+	position: relative;
+	z-index: 2;
+	min-height: 635px;
+	position: relative;
+	padding-bottom: 50px;
+}
+hr{
+	border: none;
+	border-top: 1px solid #333;
+}
+p{
+	margin: 0;
+	line-height: 18px;
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+header{
+	background: transparent;
+	padding:10px 0px;
+
+}
+nav a{
+	color:#fff;
+	text-decoration: none;
+	padding:10px 15px;
+	display: inline-block;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: bold;
+}
+nav a:hover{
+	background: #000;
+}
+footer{
+	margin-top: 20px;
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+	position: absolute; 
+	bottom: 0;
+	left: 5px;
+	right: 5px;
+	z-index:2;
+}
+table,th,td{
+	border: 1px solid #999;
+	padding: 10px;
+}
+.text-left{
+	text-align: left;
+}
+.text-center{
+	text-align: center;
+}
+.text-right{
+	text-align: right;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+.error{
+	color: red;
+}
+.success{
+	color: green;
+}
+/*-------------*/
+.movie_box{
+height: 320px;
+margin: 10px;
+padding:0;
+background:#fff;
+border: 3px solid#333;
+}
+.movie_box h2{
+margin:5px 0px;
+}
+.movie_box a{
+display: block;
+}
+.mov_image{
+height: 314px;
+object-fit: cover;
+object-position: center center;
+width: 100%;
+}
+.show_mov_image{
+	height: 586px;
+	object-fit: cover;
+	object-position: center center;
+	width: 100%;
+	border: 3px solid #fff;
+}
+.show_movie_table{
+	margin-top:38px;
+	padding: 10px;
+
+}
+.show_movie_table table{
+	border: 0px solid #999;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.book_ticke_box{
+	margin-top: 50px;
+}
+.book_ticket{
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+	width: 200px;
+	background:#dc1b15;
+	margin: auto;
+	color:#fff;
+	font-size: 20px;
+	font-weight: bold;
+}
+.book_movie_box{
+	margin: 2px;
+	padding: 0;
+	background: #fff;
+	border: 2px solid #ddd;
+}
+.book_movie_box a{
+	display: block;
+}
+.book_mov_image{
+	height: 200px;
+	object-fit: cover;
+	object-position: center center;
+	width: 100%;
+}
+.book_mov_ticket{
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	width:130px;
+	background: #dc1b15;
+	margin: auto;
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+	margin: 5px auto;
+}

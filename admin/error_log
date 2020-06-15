@@ -1,0 +1,541 @@
+[06-Dec-2019 10:01:01 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:01 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:01 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:06 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:06 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:06 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:14 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:14 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:14 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:31 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:31 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[06-Dec-2019 10:01:31 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:47 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:47 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:47 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:52 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:52 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:52 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:54 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:54 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:36:54 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:37:52 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:37:52 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:37:52 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:37:55 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:37:55 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:37:55 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 01:38:13 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 13
+[08-Dec-2019 01:38:13 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 13
+[08-Dec-2019 01:38:13 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 13
+[08-Dec-2019 01:38:16 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 13
+[08-Dec-2019 01:38:16 Etc/GMT] PHP Warning:  require(../classes/login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 13
+[08-Dec-2019 01:38:16 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 13
+[08-Dec-2019 01:38:57 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 01:38:57 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 45
+[08-Dec-2019 01:39:03 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 01:39:03 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 45
+[08-Dec-2019 01:39:45 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 3
+[08-Dec-2019 01:39:45 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 3
+[08-Dec-2019 01:39:45 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 3
+[08-Dec-2019 01:39:48 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 3
+[08-Dec-2019 01:39:48 Etc/GMT] PHP Warning:  require(connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 3
+[08-Dec-2019 01:39:48 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 3
+[08-Dec-2019 01:40:34 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 01:40:55 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 01:40:58 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 01:41:14 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 70
+[08-Dec-2019 01:41:14 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 76
+[08-Dec-2019 01:41:33 Etc/GMT] PHP Fatal error:  Class 'login' not found in /home/shahahbr/public_html/demo/booking/admin/index.php on line 17
+[08-Dec-2019 01:42:05 Etc/GMT] PHP Fatal error:  Class 'login' not found in /home/shahahbr/public_html/demo/booking/admin/index.php on line 17
+[08-Dec-2019 01:42:07 Etc/GMT] PHP Fatal error:  Class 'login' not found in /home/shahahbr/public_html/demo/booking/admin/index.php on line 17
+[08-Dec-2019 01:42:27 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 01:42:27 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 45
+[08-Dec-2019 01:42:31 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 01:42:31 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 45
+[08-Dec-2019 01:42:33 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 01:42:33 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 45
+[08-Dec-2019 01:43:11 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 40
+[08-Dec-2019 01:43:11 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 46
+[08-Dec-2019 01:43:14 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 40
+[08-Dec-2019 01:43:14 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 46
+[08-Dec-2019 01:43:16 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 40
+[08-Dec-2019 01:43:16 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 46
+[08-Dec-2019 01:43:19 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 40
+[08-Dec-2019 01:43:19 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 46
+[08-Dec-2019 01:43:21 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 40
+[08-Dec-2019 01:43:21 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 46
+[08-Dec-2019 01:44:55 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 51
+[08-Dec-2019 01:44:58 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 51
+[08-Dec-2019 01:47:46 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 57
+[08-Dec-2019 01:47:46 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 63
+[08-Dec-2019 01:48:10 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 59
+[08-Dec-2019 01:48:10 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 65
+[08-Dec-2019 01:49:06 Etc/GMT] PHP Notice:  Undefined variable: login in /home/shahahbr/public_html/demo/booking/admin/index.php on line 29
+[08-Dec-2019 01:49:06 Etc/GMT] PHP Fatal error:  Call to a member function auth() on null in /home/shahahbr/public_html/demo/booking/admin/index.php on line 29
+[08-Dec-2019 01:53:47 Etc/GMT] PHP Notice:  Undefined variable: er_email in /home/shahahbr/public_html/demo/booking/admin/index.php on line 61
+[08-Dec-2019 01:53:47 Etc/GMT] PHP Notice:  Undefined variable: er_password in /home/shahahbr/public_html/demo/booking/admin/index.php on line 67
+[08-Dec-2019 01:57:37 Etc/GMT] PHP Notice:  Undefined variable: login in /home/shahahbr/public_html/demo/booking/admin/index.php on line 31
+[08-Dec-2019 01:57:37 Etc/GMT] PHP Fatal error:  Call to a member function auth() on null in /home/shahahbr/public_html/demo/booking/admin/index.php on line 31
+[08-Dec-2019 01:57:42 Etc/GMT] PHP Notice:  Undefined variable: login in /home/shahahbr/public_html/demo/booking/admin/index.php on line 31
+[08-Dec-2019 01:57:42 Etc/GMT] PHP Fatal error:  Call to a member function auth() on null in /home/shahahbr/public_html/demo/booking/admin/index.php on line 31
+[08-Dec-2019 01:59:06 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 01:59:09 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 01:59:22 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 02:00:35 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 02:00:38 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 02:01:01 Etc/GMT] PHP Warning:  include(classes/Login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:01 Etc/GMT] PHP Warning:  include(classes/Login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:01 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/Login.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:06 Etc/GMT] PHP Warning:  include(classes/Login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:06 Etc/GMT] PHP Warning:  include(classes/Login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:06 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/Login.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:10 Etc/GMT] PHP Warning:  include(classes/Login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:10 Etc/GMT] PHP Warning:  include(classes/Login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:10 Etc/GMT] PHP Warning:  include(): Failed opening 'classes/Login.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:10 Etc/GMT] PHP Notice:  Undefined variable: login in /home/shahahbr/public_html/demo/booking/admin/index.php on line 33
+[08-Dec-2019 02:01:10 Etc/GMT] PHP Fatal error:  Call to a member function auth() on null in /home/shahahbr/public_html/demo/booking/admin/index.php on line 33
+[08-Dec-2019 02:01:35 Etc/GMT] PHP Warning:  require(classes/Login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:35 Etc/GMT] PHP Warning:  require(classes/Login.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:01:35 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'classes/Login.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/index.php on line 16
+[08-Dec-2019 02:02:07 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 02:03:29 Etc/GMT] PHP Notice:  Undefined variable: login in /home/shahahbr/public_html/demo/booking/admin/index.php on line 33
+[08-Dec-2019 02:03:29 Etc/GMT] PHP Fatal error:  Call to a member function auth() on null in /home/shahahbr/public_html/demo/booking/admin/index.php on line 33
+[08-Dec-2019 02:04:33 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 02:04:35 Etc/GMT] PHP Fatal error:  Class 'Connection' not found in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 4
+[08-Dec-2019 02:06:35 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 10
+[08-Dec-2019 02:06:35 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 10
+[08-Dec-2019 02:06:35 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 10
+[08-Dec-2019 02:07:03 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 10
+[08-Dec-2019 02:07:03 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 10
+[08-Dec-2019 02:07:03 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 10
+[08-Dec-2019 02:08:52 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:08:52 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:08:52 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:08:55 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:08:55 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:08:55 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:08:59 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:08:59 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:08:59 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:09:10 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:09:10 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:09:10 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:10:51 Etc/GMT] PHP Fatal error:  Class 'Login' not found in /home/shahahbr/public_html/demo/booking/admin/index.php on line 17
+[08-Dec-2019 02:23:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 14
+[08-Dec-2019 02:23:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 17
+[08-Dec-2019 02:23:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 18
+[08-Dec-2019 02:25:12 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shahahbr_root'@'localhost' to database 'shahahbr_booking' in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 14
+[08-Dec-2019 02:25:12 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 17
+[08-Dec-2019 02:25:12 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 18
+[08-Dec-2019 02:25:23 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'shahahbr_root'@'localhost' to database 'shahahbr_booking' in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 14
+[08-Dec-2019 02:25:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 17
+[08-Dec-2019 02:25:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 18
+[08-Dec-2019 02:42:21 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:42:21 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:42:21 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:44:04 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:44:04 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:44:04 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:44:11 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 02:44:11 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/index.php on line 41
+[08-Dec-2019 02:44:12 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:44:12 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:44:12 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 19
+[08-Dec-2019 02:46:34 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 02:46:34 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/index.php on line 41
+[08-Dec-2019 02:48:34 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 48
+[08-Dec-2019 02:48:34 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 50
+[08-Dec-2019 02:48:34 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 50
+[08-Dec-2019 02:48:40 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 02:48:40 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/index.php on line 41
+[08-Dec-2019 02:49:27 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 48
+[08-Dec-2019 02:49:27 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 50
+[08-Dec-2019 02:49:27 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 50
+[08-Dec-2019 02:50:26 Etc/GMT] PHP Notice:  Undefined index: password in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 13
+[08-Dec-2019 02:50:33 Etc/GMT] PHP Notice:  Undefined index: password in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 13
+[08-Dec-2019 02:50:39 Etc/GMT] PHP Notice:  Undefined index: password in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 13
+[08-Dec-2019 02:51:58 Etc/GMT] PHP Fatal error:  Class 'Login' not found in /home/shahahbr/public_html/demo/booking/admin/index.php on line 17
+[08-Dec-2019 02:52:08 Etc/GMT] PHP Notice:  Undefined index: password in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 13
+[08-Dec-2019 02:52:14 Etc/GMT] PHP Notice:  Undefined index: password in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 13
+[08-Dec-2019 02:53:51 Etc/GMT] PHP Notice:  Undefined index: password in /home/shahahbr/public_html/demo/booking/classes/Login.php on line 13
+[08-Dec-2019 02:55:01 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 02:57:04 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 48
+[08-Dec-2019 02:57:04 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 50
+[08-Dec-2019 02:57:04 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 50
+[08-Dec-2019 02:59:54 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 03:08:01 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 44
+[08-Dec-2019 03:08:01 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 03:08:01 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 03:08:13 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/index.php on line 39
+[08-Dec-2019 03:08:54 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 44
+[08-Dec-2019 03:08:54 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 03:08:54 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 03:23:54 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 44
+[08-Dec-2019 03:23:54 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 03:23:54 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 03:28:56 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 44
+[08-Dec-2019 03:28:56 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 03:28:56 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 03:31:45 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:31:45 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:31:45 Etc/GMT] PHP Warning:  include(): Failed opening 'pages/category.php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:31:49 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:31:49 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:31:49 Etc/GMT] PHP Warning:  include(): Failed opening 'pages/category.php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:32:07 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:32:07 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:32:07 Etc/GMT] PHP Warning:  include(): Failed opening 'pages/category.php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:32:54 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:32:54 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:32:54 Etc/GMT] PHP Warning:  include(): Failed opening 'pages/category.php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:34:24 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:34:24 Etc/GMT] PHP Warning:  include(pages/category.php.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:34:24 Etc/GMT] PHP Warning:  include(): Failed opening 'pages/category.php.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:40:24 Etc/GMT] PHP Warning:  include(pages/movie.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:40:24 Etc/GMT] PHP Warning:  include(pages/movie.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:40:24 Etc/GMT] PHP Warning:  include(): Failed opening 'pages/movie.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 78
+[08-Dec-2019 03:51:18 Etc/GMT] PHP Warning:  require(../admin/classess/Category.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:51:18 Etc/GMT] PHP Warning:  require(../admin/classess/Category.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:51:18 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../admin/classess/Category.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:51:22 Etc/GMT] PHP Warning:  require(../admin/classess/Category.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:51:22 Etc/GMT] PHP Warning:  require(../admin/classess/Category.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:51:22 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../admin/classess/Category.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:52:30 Etc/GMT] PHP Warning:  require(../admin/classess/Category.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:52:30 Etc/GMT] PHP Warning:  require(../admin/classess/Category.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:52:30 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../admin/classess/Category.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:53:01 Etc/GMT] PHP Warning:  require(../admin/classes/Category.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:53:01 Etc/GMT] PHP Warning:  require(../admin/classes/Category.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:53:01 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../admin/classes/Category.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 03:54:39 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 03:54:44 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 03:55:51 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 03:55:55 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 03:55:59 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 03:57:29 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 03:58:02 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 03:58:06 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 04:00:19 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 04:00:24 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 04:02:45 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 04:02:48 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 04:02:50 Etc/GMT] PHP Fatal error:  Cannot redeclare class Connection in /home/shahahbr/public_html/demo/booking/classes/Connection.php on line 4
+[08-Dec-2019 04:14:25 Etc/GMT] PHP Fatal error:  Class 'Category' not found in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 6
+[08-Dec-2019 04:15:47 Etc/GMT] PHP Fatal error:  Class 'Category' not found in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 6
+[08-Dec-2019 04:16:27 Etc/GMT] PHP Fatal error:  Class 'Category' not found in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 6
+[08-Dec-2019 04:16:47 Etc/GMT] PHP Notice:  Undefined variable: cat in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 7
+[08-Dec-2019 04:16:47 Etc/GMT] PHP Fatal error:  Call to a member function all_category() on null in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 7
+[08-Dec-2019 04:17:18 Etc/GMT] PHP Notice:  Undefined variable: cat in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 7
+[08-Dec-2019 04:17:18 Etc/GMT] PHP Fatal error:  Call to a member function all_category() on null in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 7
+[08-Dec-2019 04:18:30 Etc/GMT] PHP Notice:  Undefined variable: cat in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 7
+[08-Dec-2019 04:18:30 Etc/GMT] PHP Fatal error:  Call to a member function all_category() on null in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 7
+[08-Dec-2019 05:23:38 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 44
+[08-Dec-2019 05:23:38 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 05:23:38 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 46
+[08-Dec-2019 05:23:38 Etc/GMT] PHP Notice:  Undefined variable: con in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 05:23:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 05:24:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 05:24:08 Etc/GMT] PHP Fatal error:  Call to a member function connect() on null in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 5
+[08-Dec-2019 05:25:00 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:00 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:00 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:02 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:02 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:02 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:18 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:18 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:18 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:35 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:35 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:35 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:39 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:39 Etc/GMT] PHP Warning:  require(../classes/connection.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:25:39 Etc/GMT] PHP Fatal error:  require(): Failed opening required '../classes/connection.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 13
+[08-Dec-2019 05:33:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 9
+[08-Dec-2019 05:33:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 9
+[08-Dec-2019 05:33:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 9
+[08-Dec-2019 05:33:43 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 9
+[08-Dec-2019 05:35:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 9
+[08-Dec-2019 05:35:35 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 10
+[08-Dec-2019 05:35:35 Etc/GMT] PHP Notice:  Undefined index: image in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 11
+[08-Dec-2019 05:35:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 13
+[08-Dec-2019 05:35:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 14
+[08-Dec-2019 05:35:55 Etc/GMT] PHP Notice:  Undefined index: id in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 9
+[08-Dec-2019 05:35:55 Etc/GMT] PHP Notice:  Undefined index: image in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 11
+[08-Dec-2019 05:35:55 Etc/GMT] PHP Notice:  Undefined index: id in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 13
+[08-Dec-2019 05:35:55 Etc/GMT] PHP Notice:  Undefined index: id in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 14
+[08-Dec-2019 05:41:07 Etc/GMT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 05:42:50 Etc/GMT] PHP Fatal error:  Call to undefined method Category::con() in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 6
+[08-Dec-2019 05:43:14 Etc/GMT] PHP Fatal error:  Call to undefined method Category::con() in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 6
+[08-Dec-2019 05:53:56 Etc/GMT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 05:54:29 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 05:54:47 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 05:58:11 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 06:01:45 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 06:03:27 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 06:03:27 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 06:03:46 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 9
+[08-Dec-2019 06:03:53 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 9
+[08-Dec-2019 06:06:04 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 7
+[08-Dec-2019 06:06:25 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 7
+[08-Dec-2019 06:07:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 06:07:36 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 06:08:25 Etc/GMT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 8
+[08-Dec-2019 06:11:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 10
+[08-Dec-2019 06:11:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/shahahbr/public_html/demo/booking/admin/pages/category.php on line 10
+[08-Dec-2019 08:22:43 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 48
+[08-Dec-2019 08:22:43 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 50
+[08-Dec-2019 08:22:43 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 50
+[08-Dec-2019 08:33:15 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:33:15 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 31
+[08-Dec-2019 08:33:15 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 32
+[08-Dec-2019 08:34:36 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:34:36 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 31
+[08-Dec-2019 08:34:36 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 32
+[08-Dec-2019 08:34:36 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 33
+[08-Dec-2019 08:35:09 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:35:09 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 31
+[08-Dec-2019 08:35:09 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 32
+[08-Dec-2019 08:35:09 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 33
+[08-Dec-2019 08:35:20 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:35:20 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 31
+[08-Dec-2019 08:35:20 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 32
+[08-Dec-2019 08:35:20 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 33
+[08-Dec-2019 08:36:11 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:36:11 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 31
+[08-Dec-2019 08:36:11 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 32
+[08-Dec-2019 08:36:11 Etc/GMT] PHP Notice:  Undefined variable: row in /home/shahahbr/public_html/demo/booking/admin/pages/edit_category.php on line 33
+[08-Dec-2019 08:36:59 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:39:32 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:41:13 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:41:30 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 08:42:10 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/classes/Category.php on line 35
+[08-Dec-2019 09:21:45 Etc/GMT] PHP Notice:  Undefined index: cat_name in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 25
+[08-Dec-2019 09:21:45 Etc/GMT] PHP Notice:  Undefined index: cat_image in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 28
+[08-Dec-2019 09:21:45 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 31
+[08-Dec-2019 09:21:45 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 31
+[08-Dec-2019 09:24:13 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 52
+[08-Dec-2019 09:24:13 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 52
+[08-Dec-2019 09:26:02 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 58
+[08-Dec-2019 09:26:02 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 58
+[08-Dec-2019 09:26:34 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 09:26:34 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 09:27:02 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 09:27:02 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 09:28:18 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 09:28:18 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:17:40 Etc/GMT] PHP Notice:  Undefined variable: mov_name in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 34
+[08-Dec-2019 10:17:40 Etc/GMT] PHP Notice:  Undefined variable: mov_cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 40
+[08-Dec-2019 10:17:46 Etc/GMT] PHP Notice:  Undefined variable: mov_name in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 34
+[08-Dec-2019 10:17:46 Etc/GMT] PHP Notice:  Undefined variable: mov_cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 40
+[08-Dec-2019 10:17:51 Etc/GMT] PHP Notice:  Undefined variable: mov_name in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 34
+[08-Dec-2019 10:17:51 Etc/GMT] PHP Notice:  Undefined variable: mov_cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 40
+[08-Dec-2019 10:21:06 Etc/GMT] PHP Fatal error:  Call to undefined method Category::new_movie() in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 20
+[08-Dec-2019 10:29:21 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:29:21 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:29:21 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:29:21 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:32:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 43
+[08-Dec-2019 10:32:48 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:32:48 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:32:48 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:32:48 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:32:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 43
+[08-Dec-2019 10:34:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 42
+[08-Dec-2019 10:34:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 42
+[08-Dec-2019 10:37:33 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:37:33 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:37:33 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:37:33 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:37:33 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:37:33 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:03 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:03 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:03 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:03 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:03 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:03 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:22 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:22 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:22 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:22 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:22 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:22 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:35 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:35 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:35 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:35 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:35 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:38:35 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 55
+[08-Dec-2019 10:57:57 Etc/GMT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 34
+[08-Dec-2019 11:03:38 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 11:03:38 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 11:03:38 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 11:03:43 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 11:03:43 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 11:03:43 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 11:03:56 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 11:03:56 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 11:03:56 Etc/GMT] PHP Notice:  Undefined index: cat_id in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 43
+[08-Dec-2019 12:04:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/shahahbr/public_html/demo/booking/classes/Language.php on line 10
+[08-Dec-2019 12:04:26 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/shahahbr/public_html/demo/booking/classes/Language.php on line 10
+[08-Dec-2019 12:05:05 Etc/GMT] PHP Notice:  Undefined variable: lang in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 63
+[08-Dec-2019 12:05:05 Etc/GMT] PHP Fatal error:  Call to a member function all_language() on null in /home/shahahbr/public_html/demo/booking/admin/pages/edit_movie.php on line 63
+[08-Dec-2019 12:06:12 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/shahahbr/public_html/demo/booking/classes/Language.php on line 10
+[08-Dec-2019 12:06:30 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/shahahbr/public_html/demo/booking/classes/Language.php on line 10
+[08-Dec-2019 12:11:14 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:11:14 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:11:14 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:11:23 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:11:23 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:11:23 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:11:34 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:11:34 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:11:34 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:14:03 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:14:03 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:14:03 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:18:30 Etc/GMT] PHP Notice:  Undefined index: mov_lang_id in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 39
+[08-Dec-2019 12:18:30 Etc/GMT] PHP Notice:  Undefined index: mov_id in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 42
+[08-Dec-2019 12:18:55 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:18:55 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:18:55 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:19:08 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:19:08 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:19:08 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 43
+[08-Dec-2019 12:24:26 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 22
+[08-Dec-2019 12:24:49 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 22
+[08-Dec-2019 12:25:21 Etc/GMT] PHP Notice:  Undefined index: mov_language in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 22
+[08-Dec-2019 12:32:13 Etc/GMT] PHP Fatal error:  Class 'movies' not found in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 18
+[08-Dec-2019 12:35:09 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 52
+[08-Dec-2019 12:35:09 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 54
+[08-Dec-2019 12:35:09 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 54
+[08-Dec-2019 12:53:38 Etc/GMT] PHP Notice:  Undefined index: mov_image in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 22
+[08-Dec-2019 13:02:16 Etc/GMT] PHP Notice:  Undefined variable: _FILE in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 20
+[08-Dec-2019 13:19:45 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 26
+[08-Dec-2019 13:19:49 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 26
+[08-Dec-2019 14:06:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 23
+[08-Dec-2019 14:07:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/shahahbr/public_html/demo/booking/admin/pages/new_movie.php on line 23
+[08-Dec-2019 14:21:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 70
+[08-Dec-2019 14:21:49 Etc/GMT] PHP Fatal error:  Call to undefined function movie_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 22
+[08-Dec-2019 14:23:56 Etc/GMT] PHP Fatal error:  Call to undefined function movie_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 22
+[08-Dec-2019 14:34:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mov_id' (T_VARIABLE) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 28
+[08-Dec-2019 14:34:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mov_id' (T_VARIABLE) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 28
+[08-Dec-2019 14:36:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mov_id' (T_VARIABLE) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 28
+[08-Dec-2019 14:36:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mov_id' (T_VARIABLE) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 28
+[08-Dec-2019 14:41:42 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:41:42 Etc/GMT] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 27
+[08-Dec-2019 14:41:42 Etc/GMT] PHP Warning:  mysql_insert_id(): Access denied for user 'shahahbr'@'localhost' (using password: NO) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 27
+[08-Dec-2019 14:41:42 Etc/GMT] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 27
+[08-Dec-2019 14:43:17 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:43:17 Etc/GMT] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 26
+[08-Dec-2019 14:43:17 Etc/GMT] PHP Warning:  mysql_insert_id(): Access denied for user 'shahahbr'@'localhost' (using password: NO) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 26
+[08-Dec-2019 14:43:17 Etc/GMT] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 26
+[08-Dec-2019 14:43:17 Etc/GMT] PHP Notice:  Undefined index: mov_id in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 32
+[08-Dec-2019 14:44:35 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:44:35 Etc/GMT] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 25
+[08-Dec-2019 14:44:35 Etc/GMT] PHP Warning:  mysql_insert_id(): Access denied for user 'shahahbr'@'localhost' (using password: NO) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 25
+[08-Dec-2019 14:44:35 Etc/GMT] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 25
+[08-Dec-2019 14:44:35 Etc/GMT] PHP Notice:  Undefined index: mov_id in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 32
+[08-Dec-2019 14:46:37 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:46:37 Etc/GMT] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 26
+[08-Dec-2019 14:46:37 Etc/GMT] PHP Warning:  mysql_insert_id(): Access denied for user 'shahahbr'@'localhost' (using password: NO) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 26
+[08-Dec-2019 14:46:37 Etc/GMT] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 26
+[08-Dec-2019 14:47:25 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:47:25 Etc/GMT] PHP Deprecated:  mysql_insert_id(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 25
+[08-Dec-2019 14:47:25 Etc/GMT] PHP Warning:  mysql_insert_id(): Access denied for user 'shahahbr'@'localhost' (using password: NO) in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 25
+[08-Dec-2019 14:47:25 Etc/GMT] PHP Warning:  mysql_insert_id(): A link to the server could not be established in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 25
+[08-Dec-2019 14:48:06 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:48:06 Etc/GMT] PHP Warning:  mysqli_insert_id() expects exactly 1 parameter, 0 given in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 25
+[08-Dec-2019 14:49:34 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:50:31 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:52:28 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 14:59:05 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 14:59:41 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 15:00:40 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 15:01:32 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 15:02:28 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 15:03:21 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 15:03:30 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 15:04:50 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 15:05:43 Etc/GMT] PHP Fatal error:  Call to undefined function delete_image() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 67
+[08-Dec-2019 15:06:41 Etc/GMT] PHP Fatal error:  Call to undefined function show_movie() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 76
+[08-Dec-2019 15:06:48 Etc/GMT] PHP Fatal error:  Call to undefined function show_movie() in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 76
+[08-Dec-2019 15:09:45 Etc/GMT] PHP Warning:  unlink(../assets/public/images/19_logo.png): No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 78
+[08-Dec-2019 15:11:09 Etc/GMT] PHP Warning:  unlink(../assets/public/images/17_logo - Copy.png): No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 78
+[08-Dec-2019 15:11:29 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 15:13:56 Etc/GMT] PHP Warning:  unlink(../assets/public/images/20_logo.png): No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 78
+[08-Dec-2019 15:14:02 Etc/GMT] PHP Warning:  unlink(../assets/public/images/19_logo.png): No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 78
+[08-Dec-2019 15:14:22 Etc/GMT] PHP Warning:  unlink(../assets/public/images/): Is a directory in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 78
+[08-Dec-2019 15:14:27 Etc/GMT] PHP Warning:  unlink(../assets/public/images/17_logo - Copy.png): No such file or directory in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 78
+[08-Dec-2019 15:15:38 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 15:23:08 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 15:28:06 Etc/GMT] PHP Notice:  Undefined index: mov_new_image in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 56
+[08-Dec-2019 15:28:21 Etc/GMT] PHP Notice:  Undefined index: mov_new_image in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 56
+[08-Dec-2019 15:41:17 Etc/GMT] PHP Notice:  Undefined variable: id in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 57
+[08-Dec-2019 15:41:17 Etc/GMT] PHP Warning:  unlink(../assets/public/images/): Is a directory in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 89
+[08-Dec-2019 15:41:43 Etc/GMT] PHP Notice:  Undefined variable: id in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 57
+[08-Dec-2019 15:41:43 Etc/GMT] PHP Warning:  unlink(../assets/public/images/): Is a directory in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 89
+[08-Dec-2019 15:45:13 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 16:07:13 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 16:07:51 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 23
+[08-Dec-2019 16:09:38 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 41
+[08-Dec-2019 16:09:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 41
+[08-Dec-2019 16:16:35 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 28
+[08-Dec-2019 16:17:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/shahahbr/public_html/demo/booking/admin/pages/movies.php on line 28
+[08-Dec-2019 16:20:26 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 24
+[09-Dec-2019 04:42:33 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 52
+[09-Dec-2019 04:42:33 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 54
+[09-Dec-2019 04:42:33 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 54
+[12-Dec-2019 17:26:50 Etc/GMT] PHP Fatal error:  Call to undefined method Category::all_booking() in /home/shahahbr/public_html/demo/booking/admin/pages/booking.php on line 20
+[12-Dec-2019 17:27:10 Etc/GMT] PHP Fatal error:  Call to undefined method Category::all_booking() in /home/shahahbr/public_html/demo/booking/admin/pages/booking.php on line 20
+[12-Dec-2019 17:27:30 Etc/GMT] PHP Fatal error:  Call to undefined method Category::all_booking() in /home/shahahbr/public_html/demo/booking/admin/pages/booking.php on line 20
+[12-Dec-2019 17:28:49 Etc/GMT] PHP Fatal error:  Call to undefined method Category::all_booking() in /home/shahahbr/public_html/demo/booking/admin/pages/booking.php on line 20
+[12-Dec-2019 17:34:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/shahahbr/public_html/demo/booking/admin/pages/booking.php on line 21
+[12-Dec-2019 17:40:27 Etc/GMT] PHP Warning:  include(pages/customer.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 89
+[12-Dec-2019 17:40:27 Etc/GMT] PHP Warning:  include(pages/customer.php): failed to open stream: No such file or directory in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 89
+[12-Dec-2019 17:40:27 Etc/GMT] PHP Warning:  include(): Failed opening 'pages/customer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 89
+[12-Dec-2019 17:44:28 Etc/GMT] PHP Notice:  Undefined variable: cust in /home/shahahbr/public_html/demo/booking/admin/pages/customer.php on line 16
+[12-Dec-2019 17:44:28 Etc/GMT] PHP Fatal error:  Call to a member function all_customer() on null in /home/shahahbr/public_html/demo/booking/admin/pages/customer.php on line 16
+[12-Dec-2019 17:44:51 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/shahahbr/public_html/demo/booking/admin/pages/customer.php on line 17
+[12-Dec-2019 17:44:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/shahahbr/public_html/demo/booking/admin/pages/customer.php on line 17
+[12-Dec-2019 17:46:11 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/shahahbr/public_html/demo/booking/admin/pages/customer.php on line 18
+[12-Dec-2019 17:52:51 Etc/GMT] PHP Fatal error:  Call to undefined method Customer::all_booking() in /home/shahahbr/public_html/demo/booking/admin/pages/home.php on line 11
+[12-Dec-2019 17:55:58 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[12-Dec-2019 17:55:58 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 17:55:58 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 18:21:36 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[12-Dec-2019 18:21:36 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 18:21:36 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 18:40:42 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[12-Dec-2019 18:40:42 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 18:40:42 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 19:01:44 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[12-Dec-2019 19:01:44 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 19:01:44 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 19:07:10 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[12-Dec-2019 19:07:10 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 19:07:10 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 20:13:26 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[12-Dec-2019 20:13:26 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 20:13:26 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 20:13:31 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[12-Dec-2019 20:13:31 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 20:13:31 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 20:30:05 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[12-Dec-2019 20:30:05 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[12-Dec-2019 20:30:05 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[13-Dec-2019 00:47:11 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 33
+[13-Dec-2019 00:47:39 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 33
+[13-Dec-2019 00:48:52 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 33
+[13-Dec-2019 00:50:01 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 33
+[13-Dec-2019 00:50:39 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 33
+[13-Dec-2019 00:51:55 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 33
+[13-Dec-2019 00:52:48 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 33
+[13-Dec-2019 00:54:02 Etc/GMT] PHP Notice:  Array to string conversion in /home/shahahbr/public_html/demo/booking/classes/Movies.php on line 33
+[13-Dec-2019 02:17:05 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[13-Dec-2019 02:17:05 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[13-Dec-2019 02:17:05 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[24-Dec-2019 18:54:22 Etc/GMT] PHP Notice:  Undefined index: name in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 56
+[24-Dec-2019 18:54:22 Etc/GMT] PHP Notice:  Undefined index: type in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
+[24-Dec-2019 18:54:22 Etc/GMT] PHP Notice:  Undefined index: email in /home/shahahbr/public_html/demo/booking/admin/dashboard.php on line 58
