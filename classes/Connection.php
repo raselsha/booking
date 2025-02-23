@@ -6,9 +6,9 @@
 		public function connect()
 		{
 			$host_name = 'localhost';
-			$user_name = 'shahahbr_root';
+			$user_name = 'root';
 			$password = 'one1two2';
-			$db_name = 'shahahbr_booking';
+			$db_name = 'booking';
 			$this->linking = mysqli_connect($host_name,$user_name,$password,$db_name);
 			
 			$connect = $this->linking;

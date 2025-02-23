@@ -7,85 +7,105 @@ class Payment extends Connection
 {
 	
 	public function gen_invoice($data)
-	{	
+{
+    ini_set('display_errors', 1); 
+    error_reporting(E_ALL);
+    
+    $mode = "sandbox"; // Can be "live" or "sandbox"
+    $config_data = [
+        'sandbox' => [
+            'invoice_endpoint' => 'https://api-sandbox.portpos.com/payment/v2/invoice/',
+            'ipn_endpoint' => 'https://api-sandbox.portpos.com/payment/v2/invoice/ipn/',
+            'app_key' => '4a6436b9a990b18bc831d4338b97e35d',
+            'secret_key' => 'b5f0bd50437f20c36bb2697fe981ca3e'
+        ],
+        'live' => [
+            'invoice_endpoint' => 'https://api.portpos.com/payment/v2/invoice/',
+            'ipn_endpoint' => 'https://api.portpos.com/payment/v2/invoice/ipn',
+            'app_key' => '4a6436b9a990b18bc831d4338b97e35d',
+            'secret_key' => 'b5f0bd50437f20c36bb2697fe981ca3e'
+        ]
+    ];
 
-		ini_set('display_errors',1); 
-		error_reporting(E_ALL);
-		$mode = "sandbox";
-		$config_data=[
-		            'sandbox'=>[
-		                'invoice_endpoint'  => 'https://api-sandbox.portwallet.com/payment/v2/invoice/',
-		                'ipn_endpoint'      => 'https://api-sandbox.portwallet.com/payment/v2/invoice/ipn/',
-		                'app_key'           => '1a66c14e81f97c49989a8bd1ea661ff7',
-		                'secret_key'        => '3c70edaaee8770b3f6ca77f28b26b36c'
-		            ],
-		            'live'=>[
-		                'invoice_endpoint'  => 'https://api.portwallet.com/payment/v2/invoice/',
-		                'ipn_endpoint'      => 'https://api.portwallet.com/payment/v2/invoice/ipn/',
-		                'app_key'           => '1a66c14e81f97c49989a8bd1ea661ff7',
-		                'secret_key'        => '3c70edaaee8770b3f6ca77f28b26b36c'
-		            ]
-		        ];
+    // Prepare the data
+    $data = [
+        'order' => [
+            'amount' => $data['amount'],
+            'currency' => 'BDT',
+            'redirect_url' => "http://myshahadat.com/demo/booking/success.php",
+            'ipn_url' => "http://myshahadat.com/demo/booking/success.php",
+            'reference' => '123',
+        ],
+        'product' => [
+            'name' => 'Movie ticket',
+            'description' => 'Movie description',
+        ],
+        'billing' => [
+            'customer' => [
+                'name' => $data['name'],
+                'email' => $data['email'],
+                'phone' => $data['phone'],
+                'address' => [
+                    'street' => 'unknown',
+                    'city' => 'unknown',
+                    'state' => 'unknown',
+                    'zipcode' => 'unknown',
+                    'country' => 'BD'
+                ]
+            ]
+        ],
+        'customs' => [
+            'book_seats' => $data['book_seats'],
+            'book_date' => $data['book_date'],
+            'book_show_time' => $data['book_show_time'],
+            'book_mov_id' => $data['book_mov_id']
+        ]
+    ];
 
+    // Set up headers for the API request
+    $headers = [
+        'Authorization: ' . 'Bearer ' . base64_encode($config_data[$mode]['app_key'] . ":" . md5($config_data[$mode]['secret_key'] . time())),
+        'Content-Type: application/json'
+    ];
 
-		$data = [
-		    'order' => [
-		        'amount' => $data['amount'],
-		        'currency' => 'BDT',
-		        'redirect_url' => "http://myshahadat.com/demo/booking/success.php",
-		        'ipn_url' => "http://myshahadat.com/demo/booking/success.php",
-		        'reference' => '123',
-		    ],
-		    'product' => [
-		        'name' => 'Movie ticket',
-		        'description' => 'Movie description',
-		        
-		    ],
-		    'billing' => [
-		        'customer' => [
-		            'name' => $data['name'],
-		            'email' => $data['email'],
-		            'phone' => $data['phone'],
-		            'address' => [
-		                'street' => 'unknown',
-		                'city' => 'unknown',
-		                'state' => 'unknown',
-		                'zipcode' => 'unknown',
-		                'country' => 'BD'
-		            ]
-		        ]
-		    ],
-		    'customs' => [
-		        ['book_seats' => $data['book_seats']],
-		        ['book_date' => $data['book_date']],
-		        ['book_show_time' => $data['book_show_time']],
-		        ['book_mov_id' => $data['book_mov_id']]
-		    ]
+    // Encode the data into JSON format
+    $data = json_encode($data);
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $config_data[$mode]['invoice_endpoint']);
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 
-		];
+    $response = curl_exec($ch);
+    $info = curl_getinfo($ch);
+    
+    if (curl_errno($ch)) {
+        // Handle curl errors
+        echo 'Curl error: ' . curl_error($ch);
+        curl_close($ch);
+        return;
+    }
+    
+    curl_close($ch);
 
-		$headers[] = 'Authorization: ' . 'Bearer ' . base64_encode($config_data[$mode]['app_key'] . ":" . md5($config_data[$mode]['secret_key'] . time()));
-		$headers[] = 'Content-Type: ' . 'application/json';
+    // Check for successful HTTP response
+    if (substr($info['http_code'], 0, 2) == 20 && !empty($response)) {
+        $response = json_decode($response);
+        
+        // Verify the structure of the response
+        if (isset($response->data->action->url)) {
+            $url = $response->data->action->url;
+            header("Location: $url"); // Redirect browser
+            exit();
+        } else {
+            echo "Error: Missing expected URL in response";
+        }
+    } else {
+        echo "Error: Failed to generate invoice or API response error";
+    }
+}
 
-
-		$data = json_encode($data);
-		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, $config_data[$mode]['invoice_endpoint']);     
-		curl_setopt($ch, CURLOPT_POST, true);
-		curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-		curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
-
-		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-		$response = curl_exec($ch);
-		$info = curl_getinfo($ch);
-		$error = curl_error($ch);
-		curl_close($ch);
-		if (substr($info['http_code'],0,2) == 20 && !empty($response)) {
-		    $response = json_decode($response);
-		}
-		$url = $response->data->action->url;
-		header("Location: $url"); /* Redirect browser */
-	}
 
 	public function get_invoice($invoice)
 	{	
@@ -94,16 +114,16 @@ class Payment extends Connection
 		$mode = "sandbox";
 		$config_data=[
 		            'sandbox'=>[
-		                'invoice_endpoint'  => 'https://api-sandbox.portwallet.com/payment/v2/invoice/'.$invoice,
-		                'ipn_endpoint'      => 'https://api-sandbox.portwallet.com/payment/v2/invoice/ipn/',
-		                'app_key'           => '1a66c14e81f97c49989a8bd1ea661ff7',
-		                'secret_key'        => '3c70edaaee8770b3f6ca77f28b26b36c'
+		                'invoice_endpoint'  => 'https://api-sandbox.portpos.com/payment/v2/invoice',
+		                'ipn_endpoint'      => 'https://api-sandbox.portpos.com/payment/v2/invoice/ipn',
+		                'app_key' => '4a6436b9a990b18bc831d4338b97e35d',
+            			'secret_key' => 'b5f0bd50437f20c36bb2697fe981ca3e'
 		            ],
 		            'live'=>[
-		                'invoice_endpoint'  => 'https://api.portwallet.com/payment/v2/invoice/',
-		                'ipn_endpoint'      => 'https://api.portwallet.com/payment/v2/invoice/ipn/',
-		                'app_key'           => '1a66c14e81f97c49989a8bd1ea661ff7',
-		                'secret_key'        => '3c70edaaee8770b3f6ca77f28b26b36c'
+		                'invoice_endpoint'  => 'https://api.portpos.com/payment/v2/invoice',
+		                'ipn_endpoint'      => 'https://api.portpos.com/payment/v2/invoice/ipn',
+						'app_key' => '4a6436b9a990b18bc831d4338b97e35d',
+            			'secret_key' => 'b5f0bd50437f20c36bb2697fe981ca3e'
 		            ]
 		        ];
 		
@@ -133,16 +153,16 @@ class Payment extends Connection
 		$mode = "sandbox";
 		$config_data=[
 		            'sandbox'=>[
-		                'invoice_endpoint'  => 'https://api-sandbox.portwallet.com/payment/v2/invoice/',
-		                'ipn_endpoint'      => 'https://api-sandbox.portwallet.com/payment/v2/invoice/ipn/'.$data['invoice'].'/'.$data['amount'],
-		                'app_key'           => '1a66c14e81f97c49989a8bd1ea661ff7',
-		                'secret_key'        => '3c70edaaee8770b3f6ca77f28b26b36c'
+		                'invoice_endpoint'  => 'https://api-sandbox.portpos.com/payment/v2/invoice',
+		                'ipn_endpoint'      => 'https://api-sandbox.portpos.com/payment/v2/invoice/ipn',
+		                'app_key' => '4a6436b9a990b18bc831d4338b97e35d',
+            			'secret_key' => 'b5f0bd50437f20c36bb2697fe981ca3e'
 		            ],
 		            'live'=>[
-		                'invoice_endpoint'  => 'https://api.portwallet.com/payment/v2/invoice/',
-		                'ipn_endpoint'      => 'https://api.portwallet.com/payment/v2/invoice/ipn/',
-		                'app_key'           => '1a66c14e81f97c49989a8bd1ea661ff7',
-		                'secret_key'        => '3c70edaaee8770b3f6ca77f28b26b36c'
+		                'invoice_endpoint'  => 'https://api.portpos.com/payment/v2/invoice',
+		                'ipn_endpoint'      => 'https://api.portpos.com/payment/v2/invoice/ipn',
+		                'app_key' => '4a6436b9a990b18bc831d4338b97e35d',
+            			'secret_key' => 'b5f0bd50437f20c36bb2697fe981ca3e'
 		            ]
 		        ];
 		
