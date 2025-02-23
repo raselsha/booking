@@ -16,14 +16,14 @@ class Payment extends Connection
         'sandbox' => [
             'invoice_endpoint' => 'https://api-sandbox.portpos.com/payment/v2/invoice/',
             'ipn_endpoint' => 'https://api-sandbox.portpos.com/payment/v2/invoice/ipn/',
-            'app_key' => '4a6436b9a990b18bc831d4338b97e35d',
-            'secret_key' => 'b5f0bd50437f20c36bb2697fe981ca3e'
+            'app_key' => '889ca7f70a6bc2cbd1a49b0395aedcdf',
+            'secret_key' => '848559dffc71b81431efbe2778f51902'
         ],
         'live' => [
             'invoice_endpoint' => 'https://api.portpos.com/payment/v2/invoice/',
             'ipn_endpoint' => 'https://api.portpos.com/payment/v2/invoice/ipn',
-            'app_key' => '4a6436b9a990b18bc831d4338b97e35d',
-            'secret_key' => 'b5f0bd50437f20c36bb2697fe981ca3e'
+            'app_key' => '889ca7f70a6bc2cbd1a49b0395aedcdf',
+            'secret_key' => '848559dffc71b81431efbe2778f51902'
         ]
     ];
 
